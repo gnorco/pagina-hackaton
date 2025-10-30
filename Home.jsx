@@ -173,7 +173,7 @@ export default function MonoxidoInfo() {
                       lineHeight: "1.6",
                     }}
                   >
-                    En "Sparky: Guardian del Aire", el jugador controla a Sparky, un héroe ecológico encargado de
+                    En "EcoCleanner", el jugador controla a Sparky, un héroe ecológico encargado de
                     proteger el planeta. Una gran fábrica cercana está liberando CO₂ al ambiente, contaminando la ciudad
                     y poniendo en riesgo a sus habitantes. El objetivo del jugador es purificar el aire absorbiendo el
                     CO₂ antes de que los niveles sean peligrosos.
